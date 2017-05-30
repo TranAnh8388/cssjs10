@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//websitehttp://tragopxevespa-chinhhang.blogspot.com/ or http://tragopxevespa-chinhhang.blogspot.com/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
